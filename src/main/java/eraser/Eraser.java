@@ -2,6 +2,8 @@ package eraser;
 
 public class Eraser {
     public static String erase(String str) {
-        throw new UnsupportedOperationException("Unimplemented");
+        //On sélectionne UNIQUEMENT les espaces simples pour les remplacer par rien (on les supprimes)
+        str = str.replaceAll("(?<! ) (?! )", "");
+        return str;
     }
 }
