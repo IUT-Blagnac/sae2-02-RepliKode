@@ -40,7 +40,7 @@ endif::[]
 //- Kata length: 12 hours
 - Durée :  15 heures (9 créneaux TP + 1 cours)
 
-===...De la solution
+=== ...De la solution
 
 * Last name : Miqueu-Denjean
 * First name : Vincent
