@@ -34,11 +34,21 @@ endif::[]
 :joular: https://www.noureddine.org/research/joular[Joular]
 
 == Auteur(s)
-
+=== Du Sujet...
 - Jean-Michel Bruel (Université de Toulouse), mailto:bruel@irit.fr[bruel@irit.fr]
 - Version: 2022.05 (BUT1 2022)
 //- Kata length: 12 hours
 - Durée :  15 heures (9 créneaux TP + 1 cours)
+
+===...De la solution
+
+* Last name : Miqueu-Denjean
+* First name : Vincent
+* TD Group :
+- [x] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
 
 // == Objectives
 == Objectifs
