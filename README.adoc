@@ -161,13 +161,13 @@ WARNING: Les répertoires et fichiers existants devront être complétés et mis
 - Pour reproduire mon analyse :
 - Oracle pour Java
 - VSCode pour Python et C
-- J'ai detaillé le code utilisé pour par exemple calculer la vitesse d'exécution d'un programme dans le document link:https://www.codacy.com/ [PDF]
+- J'ai detaillé le code utilisé pour par exemple calculer la vitesse d'exécution d'un programme dans le document link: https://www.codacy.com/ [PDF]
 
 === Références
 
-- link:https://www.codacy.com/ [Codacy]
-- link:https://info.blaisepascal.fr/nsi-complexite-dun-algorithme [Complexité d'algo]
-- link:https://shunnarski.github.io/BigO.html [Big O]
+- link: https://www.codacy.com/ [Codacy]
+- link: https://info.blaisepascal.fr/nsi-complexite-dun-algorithme [Complexité d'algo]
+- link: https://shunnarski.github.io/BigO.html [Big O]
 
 == Généralités, notation de la SAÉ et résultat du concours
 
