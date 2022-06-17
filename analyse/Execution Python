@@ -1,0 +1,3 @@
+print("vitesse : ")
+resultat = erase("          Cou c ou   T ex te  d e   Te st   : )  ")
+print(resultat)
