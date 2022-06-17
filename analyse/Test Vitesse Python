@@ -3,7 +3,6 @@ import string
 import time
 import timeit
 
-
 def efficacite_152(cc):
     stringList = []
     spaces = 0
