@@ -168,7 +168,6 @@ WARNING: Les répertoires et fichiers existants devront être complétés et mis
 - link:https://www.codacy.com/[Codacy]
 - link:https://info.blaisepascal.fr/nsi-complexite-dun-algorithme[Complexité d'algo]
 - link:https://shunnarski.github.io/BigO.html[Big O]
-- link:http://xyz[Mon super outil XYZ]
 
 == Généralités, notation de la SAÉ et résultat du concours
 
