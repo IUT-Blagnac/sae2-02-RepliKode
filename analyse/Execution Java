@@ -1,0 +1,9 @@
+public class Main {
+
+    public static void main(String[] args) {
+        //On ajoute notre texte ici
+        String str = "          Cou c ou   T ex te  d e   Te st   : )  ";
+        //affichage du rÃ©sultat
+        System.out.println(Sobriete44.erase(str));
+    }
+}
