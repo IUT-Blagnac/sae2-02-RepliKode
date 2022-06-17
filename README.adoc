@@ -159,7 +159,7 @@ WARNING: Les répertoires et fichiers existants devront être complétés et mis
 === Reproductibilité
 
 - Pour reproduire mon analyse :
-- Oracle pour Java
+- Eclipse pour Java
 - VSCode pour Python et C
 - J'ai detaillé le code utilisé pour par exemple calculer la vitesse d'exécution d'un programme dans le document link: https://www.codacy.com/[PDF]
 
