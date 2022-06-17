@@ -152,7 +152,7 @@ WARNING: Les répertoires et fichiers existants devront être complétés et mis
 
 === Pré-requis
 
-- Compilateur pour Java (ex : Oracle, VSCode)
+- Compilateur pour Java (ex : Eclipse, VSCode)
 - Compilateur pour python (Jupyther, VSCode, PyCharm)
 - Compilateur C (Replit, VSCode)
 
