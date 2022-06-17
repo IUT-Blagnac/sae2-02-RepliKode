@@ -6,11 +6,11 @@ Evaluation synthétique :
 | 5           | simplicite-149.java  | {plus}{plus}{plus}{plus}{plus}            | {plus}{plus}{plus}{plus}{plus}     | N/A                | N/A         | N/A    
 | 4           | simplicite-116.java   | {plus}{plus}{plus}{plus}      | {plus}{plus}{plus}{plus}    | N/A                | N/A         | N/A     
 | 3           | simplicite-140.java  | {plus}{plus}         | {plus}{plus}      | N/A                | N/A         | N/A     
-| 0           | simplicite-99.java    | -       | -  | N/A                | N/A         | N/A     
-| 0           | efficacite-9.py  | N/A         | N/A      | {plus}{plus}{plus}{plus}               | {plus}{plus}{plus}{plus}        | N/A     
+| 0           | simplicite-99.java    | -       | -  | N/A                | N/A         | N/A        
 | 0           | efficacite-18.c    | N/A         | N/A      | {plus}{plus}{plus}{plus}{plus}              | {plus}{plus}{plus}         | N/A     
 | 0           | efficacite-117.py | N/A         | N/A      | {plus}{plus}{plus}                | {plus}{plus}{plus}         | N/A     
-| 0           | efficacite-121.c   | N/A         | N/A      | {plus}{plus}                 | {plus}{plus}{plus}         | N/A     
+| 0           | efficacite-121.c   | N/A         | N/A      | {plus}{plus}                 | {plus}{plus}{plus}         | N/A  
+| 0           | efficacite-9.py  | N/A         | N/A      | -              | -     | -
 | 0           | sobriete-44.java     | N/A         | N/A      | {plus}{plus}                 | {plus}{plus}{plus}         | {plus}{plus}{plus}     
 | 0           | sobriete-145.c       | N/A         | N/A      | {plus}{plus}                | {plus}{plus}{plus}         | {plus}{plus}{plus}     
 | 0           | sobriete-164.py    | N/A         | N/A      | -                  | -           | N/A     
