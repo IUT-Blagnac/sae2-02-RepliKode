@@ -34,11 +34,21 @@ endif::[]
 :joular: https://www.noureddine.org/research/joular[Joular]
 
 == Auteur(s)
-
+=== Du Sujet...
 - Jean-Michel Bruel (Université de Toulouse), mailto:bruel@irit.fr[bruel@irit.fr]
 - Version: 2022.05 (BUT1 2022)
 //- Kata length: 12 hours
 - Durée :  15 heures (9 créneaux TP + 1 cours)
+
+=== ...De la solution
+
+* Last name : Miqueu-Denjean
+* First name : Vincent
+* TD Group :
+- [x] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
 
 // == Objectives
 == Objectifs
@@ -128,7 +138,7 @@ Vous utiliserez le dépôt initial qui vous aura été attribué via classroom p
 |==========================================================================
 | #    | lien                                        | langage  | catégorie
 | 1    | link:src/main/java/eraser/Eraser.java[ici]  | Java     | Simplicité
-| ...  | ...                                         | ...      | ...      
+| 2    | link:src/main/java/eraser/Eraser.java[ici]  | Java     | Efficacité    
 |==========================================================================
 
 === Phase 2 (deadline : **vendredi 16 juin** à minuit)
@@ -142,20 +152,22 @@ WARNING: Les répertoires et fichiers existants devront être complétés et mis
 
 === Pré-requis
 
-- Java v.x.y.z
-- ...
+- Compilateur pour Java (ex : Eclipse, VSCode)
+- Compilateur pour python (Jupyther, VSCode, PyCharm)
+- Compilateur C (Replit, VSCode)
 
 === Reproductibilité
 
 - Pour reproduire mon analyse :
-. Installez X
-. Lancez Y
-. ...
+- Eclipse pour Java
+- VSCode pour Python et C
+- J'ai detaillé le code utilisé pour par exemple calculer la vitesse d'exécution d'un programme dans le document link: https://www.codacy.com/[PDF]
 
 === Références
 
-- link:http://xyz[Mon super outil XYZ]
-- ...
+- link:https://www.codacy.com/[Codacy]
+- link:https://info.blaisepascal.fr/nsi-complexite-dun-algorithme[Complexité d'algo]
+- link:https://shunnarski.github.io/BigO.html[Big O]
 
 == Généralités, notation de la SAÉ et résultat du concours
 
