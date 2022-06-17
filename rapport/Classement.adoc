@@ -12,6 +12,6 @@ Evaluation synthétique :
 | 1           | efficacite-121.c   | N/A         | N/A      | {plus}{plus}                 | {plus}{plus}{plus}         | N/A  
 | 0           | efficacite-9.py  | N/A         | N/A      | -              | -     | N/A
 | 0           | sobriete-44.java     | N/A         | N/A      | {plus}{plus}                 | {plus}{plus}{plus}         | {plus}{plus}{plus}     
-| 1           | sobriete-145.c       | N/A         | N/A      | {plus}{plus}                | {plus}{plus}{plus}         | {plus}{plus}{plus}     
 | 0           | sobriete-164.py    | N/A         | N/A      | {plus}{plus}{plus}{plus}                  | {plus}{plus}           | N/A     
+| 0           | sobriete-145.c       | N/A         | N/A      | -                | -        | -   
 |=========================================================================================================
